@@ -1,0 +1,134 @@
+a{
+    color: #11999E ;
+    
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    
+}
+h1{
+    margin: 0;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    font-family: 'Great Vibes', cursive,Arial, Helvetica, sans-serif;
+}
+h2
+{
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Roboto', sans-serif; 
+}
+h3{
+    font-size: 2.5rem;
+    color: #11999E
+}
+p{
+    font-family:  Arial, Helvetica, sans-serif;
+    line-height: 2;
+    
+}
+hr
+{
+    border: lightgrey dotted ;
+    width: 5%;
+    margin: 100px auto;
+    border-bottom: 0;
+   
+}
+a:hover{
+    color: #EAF6F6;
+}
+.btn
+{
+    background-color: #11999E;
+    color: white;
+    font-size: larger;
+    margin: 15px auto ;
+    padding: 15px;
+    border-radius: 15px;
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 25px ;
+    
+}
+.bottom-container-about
+{
+    color: #EAF6F6
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 380px;
+}
+.footer-link
+{
+    color: #11999E;
+    text-decoration: none;
+    font-size: larger;
+    margin-right: 25px;
+}
+
+.contact-me
+{
+    width: 25%;
+    margin: 40px auto 60px;
+}
+.middle-container{
+    
+  margin: 100px auto; 
+
+}
+.intro
+{
+    width: 30%;
+    margin: auto;
+}
+.pro
+{
+  text-decoration: underline;
+  font-weight: normal;
+  line-height: 2;
+
+}
+.skills
+{
+    position: relative;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.skill-one
+{
+    float: left;
+    margin-right: 30px;
+   
+}
+.skill-two
+{
+    float: right;
+    margin-left: 30px;
+}
+
+
+.top-container{
+    background-color: lightcyan; 
+    position: relative; 
+    padding-top: 145px; 
+}
+
+
+.top-cloud
+{
+    position: absolute;
+    right: 400px;
+    bottom: 675px;
+}
